@@ -7,7 +7,12 @@ A small REST service developed using Python and Flask that calculates a special 
 2) pip 19.2.3+
 3) Flask 2.0.1 (This will be installed in the virtual environment)
 ```
-## Steps to start the endpoint
+## Steps to start the endpoint from an IDE like PyCharm
+If you use an IDE, you can directly import the project from GitHub.
+The IDE should recognize the requirements.txt file and prompt you to create a virtual environment.
+
+
+## Steps to start the endpoint from terminal
  ```
  1) git clone https://github.com/bvsravikiran/pythonREST.git
  2) cd pythonREST
